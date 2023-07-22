@@ -9,3 +9,6 @@
 3. Вывести на экран
    + 3.1. терминал
    + void printArray(int[] arr)
+4. Test.
+5. New test.
+6. Add test.
