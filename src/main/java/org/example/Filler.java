@@ -3,11 +3,13 @@ package org.example;
 import java.util.Arrays;
 import java.util.Random;
 
-public class filler {
+public class Filler {
     public static void main(String[] args) {
         int N = 5;
         int[] array = createArray(N);
         System.out.printf("В массиве %s  ", Arrays.toString(array));
+
+
     }
 
     //Метод для создания и заполнения массива случайными числами
